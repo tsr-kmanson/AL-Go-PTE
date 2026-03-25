@@ -1,6 +1,8 @@
 {
   "$schema": "https://raw.githubusercontent.com/tsr-kmanson/AL-Go/Actions/58da0c3bdceaae74ea0a6ea49f3a0bddfad24586/.Modules/settings.schema.json",
-  "artifact": "////nextminor",
-  "cacheImageName": "",
-  "versioningStrategy": 15
+  "country": "w1",
+  "additionalCountries": [ "de", "fr", "us" ],
+  "appFolders": [],
+  "testFolders": [],
+  "bcptTestFolders": []
 }
